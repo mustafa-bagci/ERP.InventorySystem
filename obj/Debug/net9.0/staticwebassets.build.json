@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "3NFYIgYySuN6FGBtvQA8TdUkEQdx1YBaNQvjN8U6sFQ=",
+  "Source": "ERP.InventorySystem",
+  "BasePath": "_content/ERP.InventorySystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

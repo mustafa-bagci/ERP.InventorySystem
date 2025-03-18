@@ -1,0 +1,6 @@
+@ERP.InventorySystem_HostAddress = http://localhost:5080
+
+GET {{ERP.InventorySystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
